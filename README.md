@@ -1,6 +1,5 @@
 # 🛒 Amazon India Sales Analysis
 
-![Dashboard](dashboard.png)
 
 ## 📌 Overview
 Exploratory data analysis on 120K+ real Amazon India orders to uncover revenue trends, top-performing categories, regional insights, and cancellation behavior.
